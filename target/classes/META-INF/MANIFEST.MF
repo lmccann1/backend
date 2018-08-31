@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: individual
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: mccan
+Implementation-Vendor-Id: com.qa.individual
+Build-Jdk: 1.8.0_181
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
